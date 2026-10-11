@@ -1,2 +1,2 @@
 # Neanias-Logos
-Made by Thanos Tsoukalas (aka Thanos Souvlakopitas)
+Designed by Thanos Tsoukalas (aka Thanos Souvlakopitas)
